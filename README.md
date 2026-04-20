@@ -1,6 +1,6 @@
-# notion-user-enum
+# Notiosint
 
-Outil de reconnaissance OSINT ciblant les pages Notion publiques. À partir d'une URL ou d'un ID de page, il énumère les utilisateurs ayant contribué à cette page et récupère leurs informations — nom, email, user ID — sans aucune authentification.
+Notiosint est un outil de reconnaissance OSINT ciblant les pages Notion publiques. À partir d'une URL ou d'un ID de page, il énumère les utilisateurs ayant contribué à cette page et récupère leurs informations — nom, email, user ID — sans aucune authentification.
 
 ## Contexte
 
